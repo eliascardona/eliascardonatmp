@@ -241,7 +241,7 @@ ion-icon {
 }
 
 .orange-title-section {
-	padding: 25px 60px 25px 60px;
+	padding: 25px 100px 25px 20px;
 	color: #fefefe;
 	background-color: var(--main-orange);
 }
